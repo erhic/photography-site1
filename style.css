@@ -18,5 +18,10 @@ div{
 
     align-items: center;
     background-color: cadetblue;
-    background-clip: content-box;
+    background-clip: ;
+}
+#head{
+    display: inline;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
