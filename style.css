@@ -8,6 +8,15 @@
 
    background: size 20px; ;
 }
+menu{
+    
+}
+head{
+ font-size: 20px;
+ text-align: center;
+ background-color: blueviolet;
+
+}
 .image{
 background-size: 10px ;
     vertical-align: bottom;
@@ -16,12 +25,27 @@ background-size: 10px ;
 }
 div{
 
-    align-items: center;
+   
     background-color: cadetblue;
     background-clip: ;
 }
 #head{
     display: inline;
-    
+    float: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#berry{
+
+    float: left;
+}
+#fruits{
+
+    float: left;
+    height: 220px;
+    width: 250px;
+}
+body{
+
+    background-color: cadetblue;
 }
