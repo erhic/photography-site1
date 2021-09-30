@@ -1,97 +1,99 @@
-.Topic{
-    
-    text-align: center;color: rgb(21, 0, 99);
+.Topic {
+    text-align: center;
+    color: rgb(21, 0, 99);
     border-radius: 10px;
     font-size: 45px;
-    
 }
-#imgs{
 
-  margin-left: 120px;
-   
+#imgs {
+    margin-left: 120px;
 }
-.apple{
 
-   background: size 20px; ;
+.apple {
+    background: size 20px;
+    ;
 }
-nav > ul > li, a{
+
+nav>ul>li,
+a {
     font-style: normal;
     font-family: Arial, Helvetica, sans-serif;
     list-style-type: none;
     text-decoration: none;
     display: inline;
-    margin-right: 200px;
-    
-    
+    /* margin-right: 200px; */
 }
-.main{
+
+.main {
     display: flex;
     padding: 30px;
     border: 2px;
     margin-top: 50px;
     justify-content: space-between;
-
 }
-.main img{
+
+.main img {
     width: 350px;
 }
-head{
- font-size: 20px;
- text-align: center;
- background-color: blueviolet;
 
+head {
+    font-size: 20px;
+    text-align: center;
+    background-color: blueviolet;
 }
-.image{
-background-size: 10px ;
+
+.image {
+    background-size: 10px;
     vertical-align: bottom;
     margin-top: 20px;
-    
 }
-div{
 
-   
-  /*  background-color: cadetblue;*/
-  
+div {
+    /*  background-color: cadetblue;*/
 }
-#head{
+
+#head {
     display: inline;
     float: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-#berry{
-
+#berry {
     float: left;
 }
-#fruits{
 
+#fruits {
     float: left;
     height: 220px;
     width: 250px;
 }
-body{
 
-  
+body {
     font-family: sans-serif;
 }
-.Topic{color: white;}
-.n{
-    border-radius:  10%;
+
+.Topic {
+    color: white;
+}
+
+.n {
+    border-radius: 10%;
     float: right;
 }
-*{
 
+* {
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 10;
 }
-#imag >*img{
 
-    margin-right: 170px ;
+#imag>*img {
+    margin-right: 170px;
     height: 100px;
     width: 100px;
 }
-img{
+
+img {
     border-radius: 25px;
     padding-left: 10px;
     align-items: center;
@@ -99,78 +101,94 @@ img{
     margin-bottom: 30px;
     margin-top: 20px;
     margin-left: 10px;
+}
 
-
-}#pump{
+#pump {
     padding-right: 12px;
     float: right;
-    
 }
-#one{
-float: left;
-padding-left: 10px;
-margin-right: 20PX;
+
+#one {
+    float: left;
+    padding-left: 10px;
+    margin-right: 20PX;
+}
 
 
-}
 /* p:nth-child(2){
   
 } */
-html #feed{
-    background-color: rgb(175, 164, 117);
+
+html #feed {
+    background-color: rgb(161, 139, 41);
     text-align: center;
 }
 
-#bdy{
-
+#bdy {
     background-color: cyan;
     margin-right: -10px;
     margin-left: -10px;
-        
 }
-#contact{
+
+#contact {
     text-align: right;
     color: rgb(235, 234, 240);
-    background-color: rgb(175,164,117);
+    background-color: rgb(175, 164, 117);
     font-size: 19px;
 }
 
-
-#headercolor{
-
+#headercolor {
     background-color: transparent;
-
 }
-.gallery{
 
-align-items: center;
+.gallery {
+    align-items: center;
 }
-#img3{
+
+#img3 {
     margin-left: 50px;
 }
-#p1{
-text-align: center;
-font-family:Verdana, Geneva, Tahoma, sans-serif;
-}
-#about{
+
+#p1 {
     text-align: center;
-    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-body{
+
+#about {
+    text-align: center;
+}
+
+body {
     background-image: url("img/pineapple-g993896234_1920.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     opacity: 88%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
 }
-#ap{
+
+.orange {
+    float: left;
+}
+
+#ap {
     display: flex;
 }
-#ap p{
+
+#ap p {
     padding-top: 60px;
 }
-nav ul li{
 
-    display: inline;
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li {
     background-color: transparent;
+}
+
+#ple {
+    display: flex;
 }
