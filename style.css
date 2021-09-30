@@ -14,11 +14,12 @@
 
    background: size 20px; ;
 }
-menu{
+#menu{
     font-style: normal;
     font-family: Arial, Helvetica, sans-serif;
     text-align:center;
     display: inline;
+    list-style-type:  none;
 }
 head{
  font-size: 20px;
