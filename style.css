@@ -124,10 +124,12 @@ html #feed{
 #headercolor{
 
     background-color: rgb(230, 179, 220);
-    
 
 }
 .gallery{
 
 align-items: center;
+}
+#img3{
+    margin-left: 50px;
 }
