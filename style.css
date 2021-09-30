@@ -20,7 +20,20 @@ nav > ul > li, a{
     list-style-type: none;
     text-decoration: none;
     display: inline;
-    margin-left: 20px;
+    margin-right: 200px;
+    
+    
+}
+.main{
+    display: flex;
+    padding: 30px;
+    border: 2px;
+    margin-top: 50px;
+    justify-content: space-between;
+
+}
+.main img{
+    width: 350px;
 }
 head{
  font-size: 20px;
@@ -141,4 +154,23 @@ font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 #about{
     text-align: center;
+    
+}
+body{
+    background-image: url("img/strawberry-6626400_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 70%;
+}
+#ap{
+    display: flex;
+}
+#ap p{
+    padding-top: 60px;
+}
+nav ul li{
+
+    display: inline;
+    background-color: transparent;
 }
