@@ -157,11 +157,11 @@ font-family:Verdana, Geneva, Tahoma, sans-serif;
     
 }
 body{
-    background-image: url("img/strawberry-6626400_1920.jpg");
+    background-image: url("img/pineapple-g993896234_1920.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    opacity: 70%;
+    opacity: 88%;
 }
 #ap{
     display: flex;
