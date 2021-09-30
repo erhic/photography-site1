@@ -2,14 +2,23 @@
     background-color: rgb(212, 0, 255);
     text-align: center;color: rgb(21, 0, 99);
     border-radius: 10px;
+    font-size: 45px;
     
+}
+#imgs{
+
+  margin-left: 120px;
+   
 }
 .apple{
 
    background: size 20px; ;
 }
 menu{
-    
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+    display: inline;
 }
 head{
  font-size: 20px;
@@ -26,8 +35,8 @@ background-size: 10px ;
 div{
 
    
-    background-color: cadetblue;
-    background-clip: ;
+  /*  background-color: cadetblue;*/
+  
 }
 #head{
     display: inline;
@@ -47,5 +56,78 @@ div{
 }
 body{
 
-    background-color: cadetblue;
+  
+    font-family: sans-serif;
+}
+.Topic{color: white;}
+.n{
+    border-radius: 10%;
+    float: right;
+}
+*{
+
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10;
+}
+#imag >*img{
+
+    margin-right: 170px ;
+    height: 100px;
+    width: 100px;
+}
+img{
+    border-radius: 25px;
+    padding-left: 10px;
+    align-items: center;
+    padding-right: 10px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-left: 10px;
+
+
+}#pump{
+    padding-right: 12px;
+    float: right;
+    
+}
+#one{
+float: left;
+padding-left: 10px;
+margin-right: 20PX;
+
+
+}
+/* p:nth-child(2){
+  
+} */
+html #feed{
+    background-color: rgb(175, 164, 117);
+    text-align: center;
+}
+
+#bdy{
+
+    background-color: cyan;
+    margin-right: -10px;
+    margin-left: -10px;
+        
+}
+#contact{
+    text-align: right;
+    color: rgb(235, 234, 240);
+    background-color: rgb(175,164,117);
+    font-size: 19px;
+}
+
+
+#headercolor{
+
+    background-color: rgb(230, 179, 220);
+    
+
+}
+.gallery{
+
+align-items: center;
 }
